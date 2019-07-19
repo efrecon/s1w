@@ -1,0 +1,9 @@
+[submodule "lib/toclbox"]
+	path = lib/toclbox
+	url = https://github.com/efrecon/toclbox.git
+[submodule "lib/til"]
+	path = lib/til
+	url = https://github.com/efrecon/til.git
+[submodule "lib/modules/w1"]
+	path = lib/modules/w1
+	url = https://github.com/efrecon/w1.git
